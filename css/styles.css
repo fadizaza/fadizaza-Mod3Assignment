@@ -6,7 +6,7 @@ body {
 }
 
 
-/** HEADER **/
+/** Header of the page */
 
 #header-nav {
     background-color: #6495ED;
@@ -65,10 +65,9 @@ body {
 }
 
 
-/** END HEADER */
 
 
-/** HOME PAGE **/
+/** Body **/
 
 #main-content {
     width: 92%;
@@ -97,4 +96,3 @@ body {
 }
 
 
-/** END HOME PAGE **/
